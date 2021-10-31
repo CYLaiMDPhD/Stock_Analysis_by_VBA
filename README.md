@@ -32,7 +32,7 @@ Three output arrays were instead created to store the output data (volume, start
 ![Initial_2017.png](/Other_Screen_Shots/Initial_2017.png)
 
 **Figure 2: 2017 Analysis with Refactored VBA Macro**
-![VBA_Challenge_2018.png](/Resources/VBA_Challenge_2018.png)
+![VBA_Challenge_2017.png](/Resources/VBA_Challenge_2017.png)
 
 **Figure 3: 2018 Analysis with Initial VBA Macro**
 ![Initial_2018.png](/Other_Screen_Shots/Initial_2018.png)

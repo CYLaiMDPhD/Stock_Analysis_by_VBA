@@ -49,7 +49,7 @@ Run times for analyzing the 2017 or 2018 data sets using our initial code or the
 Our refactored code was faster than our initial VBA macro (Table 1). After restarting Excel, the refactored macro ran the 2017 and 2018 analyses in just over 0.5 seconds while the same analyses took approximately 1.2 seconds using the initial VBA macro. Rerunning the same code on the same data immediately afte the first run required less time as certain processes in Excel had already been initialized. Therefore, subsequent analyses using the inital and refactored code took approximately 0.8 seconds and 0.1 seconds respectively (Table 1, "Ave w/o Initial").
 
 **Table 1: Comparison of Run Times using Initial and Refactored VBA Macros** 
-![Table_1.png](/Other_Screen_Shots/Table_1.png)
+![Table1.png](/Other_Screen_Shots/Table1.png)
 
 ---
 

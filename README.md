@@ -1,6 +1,6 @@
 # Performance of Green Stocks
 
-*Note: This repository was generated to fulfill an assignment (Module 2 Challenge) for the UC Berkeley Data Analytics and Visualization Boot Camp. The analysis, content, and format of this report were based on the grading rubric.*
+*Note: This repository was generated to fulfill an assignment (Module 2 Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The analysis, content, and format of this report were based on the grading rubric.*
 
 
 ## Overview

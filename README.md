@@ -1,15 +1,15 @@
 # Performance of Green Stocks
 
-*Note: This repository was generated to fulfill an assignment (Module 2 Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. Submitted on 10-30-21 for grading. Please refer to "VBA_Challenge.xlsm" for grading.*
+*Note: This repository was generated to fulfill an assignment (Module 2 Challenge) for the UC Berkeley Data Analytics and Visualization Bootcamp. The analysis, content, and format of this report were based on the grading rubric.*
 
 
 ## Overview
-This report summarizes run time results for the analysis of a limited data set of stocks using two different sets of VBA code as part of our services to our client, Steve.
+This report summarizes run time results for the analysis of a limited dataset of stocks using two different sets of VBA code as part of our services to a fictional client.
 
 
 ### Background
 
-Our client requested help with analyzing the performance of a set of a dozen green stocks over two years, 2017 and 2018. VBA macros were used to analyze the data in Excel (version 16.54). In our initial analysis, nested loops were used to add total volumes and capture each stock's start and ending prices row by row for each stock to calculate yearly returns. Run times were generally around or under one second for this relatively small data set with the initial VBA macro.
+Our client has requested an analysis of the performance of a set of a dozen green stocks over two years, 2017 and 2018. VBA macros were used to analyze the data in Excel (version 16.54). In our initial analysis, nested loops were used to add total volumes and capture each stock's start and ending prices row by row for each stock to calculate yearly returns. Run times were generally around or under one second for this relatively small data set with the initial VBA macro.
 
 
 ### Purpose

@@ -6,7 +6,8 @@
 ## Overview
 This report summarizes run time results for the analysis of a limited dataset of stocks using two different sets of VBA code as part of our services to a fictional client.
 
-**Data Source: green_stocks.xlsx file, a dataset of stock performance over 2017 and 2018 for twelve stocks, provided as part of course materials.**
+**Data Source:** 
+green_stocks.xlsx file, a dataset of stock performance over 2017 and 2018 for twelve stocks, provided as part of course materials.
 
 ### Background
 
